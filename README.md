@@ -29,6 +29,8 @@ Organizations often face challenges in maintaining the integrity of data transmi
 
 <img width="692" alt="image" src="https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/4f62bc89-0cff-4aa6-bab6-6bbd5a583764">
 
+## Database Schema
+
 <img width="824" alt="image" src="https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/4d66f2b2-3957-4281-af84-27cc72a7f1b4">
 
 
@@ -43,15 +45,15 @@ Organizations often face challenges in maintaining the integrity of data transmi
 
 4. Access the messaging system through the provided UI and start sending and receiving messages.
 
-## Messaging Application 
+# Messaging Application 
 
-# Login
+## Login
 ![image](https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/6f1a4355-a8fc-435c-8512-bebd4b010d84) ![image](https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/7f8f8c32-6a5d-44e9-bd40-372aa43a7f33)
 
-# Admin Dashboard
+## Admin Dashboard
 ![image](https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/557d7fb8-ca19-4d4d-be3a-30c28bb4bfd7) ![image](https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/040272c4-0821-42e6-bafb-1bfe6a2dbe2f)
 
-# Single and Group Chat
+## Single and Group Chat
 ![image](https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/8e994354-f060-4c14-aff7-ddc227e0585d) ![image](https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/15221865-0c13-4558-b11a-a34bc288a840)
 
 
