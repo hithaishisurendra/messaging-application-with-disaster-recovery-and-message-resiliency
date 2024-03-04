@@ -27,7 +27,7 @@ Organizations often face challenges in maintaining the integrity of data transmi
 
 ## Project Structure
 
-<img width="692" alt="image" src="https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/4f62bc89-0cff-4aa6-bab6-6bbd5a583764">
+<img width="1046" alt="image" src="https://github.com/hithaishisurendra/messaging-application-with-disaster-recovery-and-message-resiliency/assets/114680442/4f62bc89-0cff-4aa6-bab6-6bbd5a583764">
 
 ## Database Schema
 
